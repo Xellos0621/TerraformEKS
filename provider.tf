@@ -10,7 +10,7 @@ terraform {
 }
 
 provider "aws" {
-  profile = "fastc"
+  profile = "Xellos0621"
   region  = "ap-northeast-2"
 }
 
